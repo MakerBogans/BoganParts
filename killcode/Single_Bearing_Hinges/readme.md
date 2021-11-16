@@ -7,6 +7,8 @@
 Hinges are mounted on the left, if you want hinges on the right you'll have to mirror them.
 Each hinge mounts to the frame with a M3x8mm SHCS
 
+Offsets are speced for 3mm acrylis + 3mm foam
+
 ![Model.png](images/Model.png)
 
 ![Photo.jpg](images/Photo.jpg)
