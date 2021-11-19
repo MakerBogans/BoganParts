@@ -2,12 +2,12 @@
 <img align="right" width="100" height="100" src="images/db.png">
 
 ## Single Bearing Hinges
-### Annex Inspired hinges utilising a single F688 Bearing and 8mm Pin in eash hinge.
+### Annex Inspired hinges utilising a single F688 Bearing and 8mm pin in each hinge.
 8mm Pins are pressfit into the hinge bracket. F688 bearing is pressfit into the hinge arm. 
 Hinges are mounted on the left, if you want hinges on the right you'll have to mirror them.
 Each hinge mounts to the frame with a M3x8mm SHCS
 
-Offsets are speced for 3mm acrylis + 3mm foam
+Offsets are speced for 3mm acrylic + 3mm foam
 
 ![Model.png](images/Model.png)
 
