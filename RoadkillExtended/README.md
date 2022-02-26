@@ -1,8 +1,8 @@
 # Roadkill Enhanced Toolhead PCB Family
 
-The RKE family of toolhead boards are based off the roadkill board designed xbst_ but offer numerous improvements.
+The RKE family of toolhead boards are based off the roadkill board designed xbst_ but offers numerous improvements.
 
-* Heater current capacity is greatly improved offering 5A of capacity on the RKE-Long board and 6A on RKE^2^. 
+* Heater current capacity is greatly improved offering 5A of capacity on the RKE-Long board and 6A on RKE<sup>2</sup>. 
 * Support for simultaneous use of neopixels, filament sensor, inductive probe and x endstop switch with dedicated ports for all features.
 * All boards within the RKE family are pin compatible allowing for mix and matching of boards. 
 
@@ -29,7 +29,7 @@ IDC numbering is ODD_EVEN with 1 denoted by an arrow on the PCB
 
 Pin 1 of the JST-XH ports is the square pads on the PCB.
 
-For RKE^2^
+For RKE<sup>2</sup>
 
 | Port             | Pin 1 (IDC PIN)  | Pin 2  (IDC PIN) | Pin 3  (IDC PIN) | Pin 4 (IDC PIN) |
 | ---------------- | ---------------- | ---------------- | ---------------- | --------------- |
