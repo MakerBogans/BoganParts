@@ -10,10 +10,10 @@ The RKE family of toolhead boards are based off the roadkill board designed xbst
 * Support for simultaneous use of neopixels, filament sensor, inductive probe and x endstop switch with dedicated ports for all features.
 * All boards within the RKE family are pin compatible allowing for mix and matching of boards.
 
-![RKE-Squared](Images/RKE2.jpg)
-
-![RKE-Long](Images/RKE-Long.jpg)
-
+<p align="middle" >
+  <img src="Images/RKE2.jpg" width="40%" />
+  <img src="Images/RKE-Long.jpg" width="40%" /> 
+</p>
  
 
 ## Important Notes
