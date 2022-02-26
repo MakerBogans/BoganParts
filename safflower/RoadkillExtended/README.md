@@ -1,10 +1,20 @@
+---
+
+---
+
 # Roadkill Enhanced Toolhead PCB Family
 
 The RKE family of toolhead boards are based off the roadkill board designed xbst_ but offers numerous improvements.
 
 * Heater current capacity is greatly improved offering 5A of capacity on the RKE-Long board and 6A on RKE<sup>2</sup>. 
 * Support for simultaneous use of neopixels, filament sensor, inductive probe and x endstop switch with dedicated ports for all features.
-* All boards within the RKE family are pin compatible allowing for mix and matching of boards. 
+* All boards within the RKE family are pin compatible allowing for mix and matching of boards.
+
+![RKE-Squared](Images\RKE2.jpg)
+
+![RKE-Long](Images\RKE-Long.jpg)
+
+ 
 
 ## Important Notes
 
@@ -22,6 +32,10 @@ Per Board,
 * 3 x 3 pin JST-XH (2x for RKE Long)
 * 1 x 4 pin JST-XH (2X for RKE Long)
 * 1 x 5 mm pitch screw terminal (TB00250002BE)
+
+Molex temp-flex ribbon is the preferred ribbon solution (Molex, 100057-0101).
+
+For IDC connector/sockets 3M D89120-0131HK with D3448-89120 strain relief clip are the preferred solutions.
 
 ## Pinout for Ports
 
@@ -49,3 +63,6 @@ RKE Long utilises a combined Filament Sensor and X endstop port pinout is below.
 | ------------------- | --------------- | ---------------- | ---------------- | --------------- |
 | Combined FS and XES | 5 V (4)         | GND (2)          | Signal (12)      | Signal (10)     |
 
+# Schematic
+
+![](Images\Schematic.png)
