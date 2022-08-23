@@ -4,7 +4,7 @@
 
 ## Status
 
-I've this to my V2.4 350 mm, and it works well!
+I've got this on my V2.4 350 mm, and it works well!
 
 ## How to
 
